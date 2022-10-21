@@ -1,3 +1,5 @@
+#Character Type Lab
+
 char1 = input("Enter a character: ")
 if(char1.islower() == True):
     print(char1, "is a lower case letter.")
